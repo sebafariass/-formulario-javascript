@@ -1,0 +1,29 @@
+
+form {
+  background: palegreen;
+  color: darkblue;
+  border-radius: 20px;
+  padding: 20px 50px;
+  height: 300px;
+  width: 500px
+  ;
+ 
+}
+
+.input  {
+  align-items: center;
+ 
+  
+}
+
+button {
+ 
+  background-color: black;
+  border-radius: initial;
+  color: white;
+}
+
+.contenedor_button {
+  text-align: left;
+  padding: 10px 0px;
+}
